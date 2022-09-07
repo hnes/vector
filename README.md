@@ -42,6 +42,7 @@ Vector**][docs.installation].
 
 ### Community
 
+
 * Vector is relied on by startups and enterprises like **Atlassian**, **T-Mobile**,
   **Comcast**, **Zendesk**, **Discord**, **Fastly**, **CVS**, **Trivago**,
   **Tuple**, **Douban**, **Visa**, **Mambu**, **Blockfi**, **Claranet**,
